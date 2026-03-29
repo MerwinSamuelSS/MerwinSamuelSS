@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Contact me
 > * 📫 Email: capemerwin@gmail.com,
 > * Phone Number: +91-9629820032.
