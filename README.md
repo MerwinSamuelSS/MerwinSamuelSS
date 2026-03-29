@@ -1,6 +1,6 @@
 ## Contact me
-> * 📫 Email: capemerwin@gmail.com,
-> * Phone Number: +91-9629820032.
+> * Email: capemerwin@gmail.com,
+> * Phone: +91-9629820032.
 
 ## About me
 
