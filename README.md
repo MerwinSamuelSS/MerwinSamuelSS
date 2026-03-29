@@ -10,17 +10,17 @@ With a foundation in pharmaceutical sciences, I bring a deep understanding of re
 
 ## Skills
 
-       - 🔍 Network Security & Traffic Analysis
-       - 🛡️ Threat Detection & Vulnerability Assessment
-       - 💻 Linux & System Hardening
-       - 🌐 Web Application Security Basics
-       - 📊 Security Tools (Wireshark, Nmap, etc.)
-       - 🔐 Cybersecurity Fundamentals & Best Practices
+   - 🔍 Network Security & Traffic Analysis
+   - 🛡️ Threat Detection & Vulnerability Assessment
+   - 💻 Linux & System Hardening
+   - 🌐 Web Application Security Basics
+   - 📊 Security Tools (Wireshark, Nmap, etc.)
+   - 🔐 Cybersecurity Fundamentals & Best Practices
 
 I am actively building my skills through practical labs, certifications, and real-world simulations. My goal is to contribute to securing digital environments while continuously learning and evolving in this field.
 
 ## Fun fact: 
-          * Technology addict 
-          * Always push myself to get more Knowledge
-          * Calm and problem solving mentality
-          * Comuunication 
+   * Technology addict 
+   * Always push myself to get more Knowledge
+   * Calm and problem solving mentality
+   * Comuunication 
