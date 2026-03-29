@@ -21,6 +21,6 @@ I am actively building my skills through practical labs, certifications, and rea
 
 ## Fun fact: 
           * Technology addict 
-          * Always push myself to get more skill
-          * Calm and problem solving skills
-          * Comuunication skills
+          * Always push myself to get more Knowledge
+          * Calm and problem solving mentality
+          * Comuunication 
