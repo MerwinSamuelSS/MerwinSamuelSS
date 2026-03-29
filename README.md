@@ -15,11 +15,12 @@ This portfolio showcases my hands-on learning and projects in areas such as:
 
 I am actively building my skills through practical labs, certifications, and real-world simulations. My goal is to contribute to securing digital environments while continuously learning and evolving in this field.
 
-> 🔭 HLL LIFECARE LTD - Pharmcist
-> 🌱 Google cyber security Course 
-> 📫 Email: capemerwin@gmail.com, Phone Number; +91 9629820032
-> ⚡ Fun fact: 
+Fun fact: 
          $> Technology addict 
          $> Always push myself to get more skill
          $> Calm and problem solving skills
          $> Comuunication skills
+
+> 🔭 HLL LIFECARE LTD - Pharmcist
+> 🌱 Google cyber security Course 
+> 📫 Email: capemerwin@gmail.com, Phone Number; +91-9629820032
